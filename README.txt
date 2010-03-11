@@ -92,6 +92,6 @@ Wondering where to go from here?
   * Join us in #cassandra on irc.freenode.net and ask questions.
   * Subscribe to the Users mailing list by sending a mail to
     cassandra-user-subscribe@incubator.apache.org
-
+  * http://www.paragarora.com
 
 
